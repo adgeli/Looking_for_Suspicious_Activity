@@ -38,6 +38,21 @@ Using the [Visual Data Analysis](visual_data_analysis.ipynb) code file, various 
 
 ## Important Project Note
 
+Each table displayed in this report was built using a SQL query through Postgres. The SQL files can be found below or navigated to in the ".sql_files" directory in this repository.
+
+#### SQL Files
+
+* ["Create Tables" Schema](ERD_Files/Schema.sql)
+* [Data Seed File](Data/seed.sql)
+* [Isolating Crad Holder Transactions](.sql_files/card_holder_transactions.sql)
+* [The Top 100 Highest Transactions During 7-9 am](.sql_files/top_100_transactions.sql)
+* [Transactions Under $2.00](.sql_files/transactions_under_2_dollars.sql)
+* [Verifying Card Holder Transactions](.sql_files/Verifying_Cardholder_Activity.sql)
+* [The Top 5 Merchants Prone to Hacking](.sql_files/top_5_merchants_prone_to_hacking.sql)
+* [Fraudulent Transactions for Card Holder 2 & 18](.sql_files/cardholders_2_and_18.sql)
+* [Fraudulent Transactions for Card Holder 25](.sql_files/cardholder_25.sql)
+
+
 ---
 
 ## Installation Requirements
