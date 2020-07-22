@@ -71,5 +71,12 @@ pip install sqlalchemy
 
 ## File Contents 
 
+* [Unit 7 SQL Homework Instructions](Unit_7_Instructions.md)
+* [Visual Data Analysis](visual_data_analysis.ipynb)
+* [Data Analysis Report](data_analysis.md)
+* [ERD Files](ERD_Files)
+* [Data Files](Data)
+* [SQL Files](SQL_files)
+
 ---
 
