@@ -142,3 +142,7 @@ Cardholder 2 as noticed from the combined line plot has a much lower spending pa
 
 From the displayed box plot over the first six month period of 2018, there appears to be nine outliers present in card holder 25's spending habits. Based on the transaction patters that occured in May and April, there is a possbility the outlier purchases are legitimate. Considering in April there are 2 transactions that are moderate spending prices based on the distribution amount, the card holder may have participated in higher transaction activity for that period. However, considering the varriance in distribution amount it would be beneficial for the firm to verify these transactions with the card holder and investigate suspicions of fradulent activity.
 
+---
+
+## References 
+[Ontario Alcohol and Gaming Commission](https://www.agco.ca/alcohol/hours-alcohol-sale-and-service)
