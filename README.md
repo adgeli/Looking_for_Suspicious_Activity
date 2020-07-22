@@ -52,10 +52,20 @@ Each table displayed in this report was built using a SQL query through Postgres
 * [Fraudulent Transactions for Card Holder 2 & 18](.sql_files/cardholders_2_and_18.sql)
 * [Fraudulent Transactions for Card Holder 25](.sql_files/cardholder_25.sql)
 
-
 ---
 
 ## Installation Requirements
+
+To access the PostgreSQL engine, the user must have their own personal Postgres key. This must be inputted in the [Visual Data Analysis](visual_data_analysis.ipynb) file to display the created visualizations. 
+
+Additionally, users must run a pip install on the following libraries to successfully run the presented code in this assignment. 
+
+```
+pip install pandas
+pip install matplotlib
+pip install plotly
+pip install sqlalchemy 
+```
 
 ---
 
